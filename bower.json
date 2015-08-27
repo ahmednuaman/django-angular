@@ -1,0 +1,17 @@
+{
+  "name": "django-angular",
+  "version": "0.7.15",
+  "homepage": "https://github.com/ahmednuaman/django-angular",
+  "authors": [
+    "''"
+  ],
+  "main": "djangular/static/djangular/js/django-angular.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

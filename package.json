@@ -1,0 +1,23 @@
+{
+  "name": "django-angular",
+  "version": "0.7.15",
+  "description": "============== django-angular ==============",
+  "main": "djangular/static/djangular/js/django-angular.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmednuaman/django-angular.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmednuaman/django-angular/issues"
+  },
+  "homepage": "https://github.com/ahmednuaman/django-angular#readme"
+}
